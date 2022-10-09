@@ -3,9 +3,8 @@
 <div align=center> 
 
   
-  Hello I am a new Front-end developer.<br/>
-  working on it based on JavaScript React.<br/>
-  I enjoy chess, travel and mountaineering. ✨ <br/><br/>
+  Hello I am a new developer.<br/> <br/>
+
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EunHyeSeon&show_icons=true&hide_border=true&&theme=default&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunHyeSeon&layout=compact&hide_border=true&theme=default)
