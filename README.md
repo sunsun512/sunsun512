@@ -2,8 +2,7 @@
 
 <div align=center> 
 
-  
-  Hello, It's Hyeseon's Github <br/> <br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyeSeon's_Github&fontSize=90" />
 
 </p>
 
