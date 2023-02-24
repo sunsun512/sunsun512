@@ -3,11 +3,11 @@
 <div align=center> 
 
   
-  Hello I am a new developer.<br/> <br/>
+  Hello It's Hyeseon's Github <br/> <br/>
 
 </p>
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EunHyeSeon&show_icons=true&hide_border=true&&theme=default&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunHyeSeon&layout=compact&hide_border=true&theme=default)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunsun512&show_icons=true&hide_border=true&&theme=default&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunsun512&layout=compact&hide_border=true&theme=default)
   
   
  
