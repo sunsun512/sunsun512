@@ -2,16 +2,12 @@
 
 <div align=center> 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Good&fontSize=90" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyeseon's_GitHub&fontSize=90" />
 </p>
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunsun512&show_icons=true&hide_border=true&&theme=default&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunsun512&layout=compact&hide_border=true&theme=default)
   
   
- 
-
-
+ ### 만나서 반갑습니다.
   
   
 
@@ -32,6 +28,13 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
+
+<a href="https://velog.io/@eunhye_/posts">
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=velog"/>
+</a>
+<a href="https://linkedin.com/in/heyseon-eun-8b2274235/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
   
 </div>
 </div>
